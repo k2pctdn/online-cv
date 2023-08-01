@@ -117,13 +117,14 @@ certifications:
             (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). 
             (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). 
             The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.
-        - name: Mathematics for Machine Learning by Imperial College London on Coursera
+            
+        - name: Mathematics for Machine Learning
           start: 2022
           end: 2022
           organization: Imperial College London on Coursera
           credentialid: 
           credentialurl: https://coursera.org/share/f9f2545e99aefffa086c3bb5dced1a79
-          credentialname: Mathematics for Machine Learning by Imperial College London on Coursera
+          credentialname: Mathematics for Machine Learning
           details: |
             Mathematics for Machine Learning. Learn about the prerequisite mathematics for applications in data science and machine learning.
         
