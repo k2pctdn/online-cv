@@ -73,16 +73,16 @@ education:
           I worked on building a reliable mathemamatical model for describing the air traffic on a large scale.
             - Master thesis: [Building a Sector Flow Model for Air Traffic Demand Prediction](https://dspace.jaist.ac.jp/dspace/JAIST/theses)
             - Publised paper: [Q. K. Tran and K. Hiraishi, An Improved Version of Cell Transmission Model for Air Traffic Flow, Proc. 3rd Int. Conf. Transportation Infrastructure and Sustainable Development (TISDIC2019), 335-343 (2019).](https://www.researchgate.net/publication/365872173_An_improved_version_of_cell-transmission_model_for_air_traffic_flow)
-      - degree: Engineer's Degree in Mechatronics Engineering
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Engineer''s Degree in Mechatronics Engineering
+        university: The University of Danang - University of Science and Technology
+        time: 2009 - 2014
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
-            - Bullet point
+            - Graduation project: Design and Fabrication of a quadcopter model.
             - Bullet point
 experiences:
     title: Experiences
