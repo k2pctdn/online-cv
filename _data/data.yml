@@ -70,101 +70,62 @@ education:
         university: Japan Advanced Institute of Science and Technology
         time: 2017 - 2019
         details: |
-          I worked on building a reliable mathemamatical model for describing the air traffic on a large scale.
+          As part of my work, I had the opportunity to develop a highly reliable mathematical model for describing air traffic on a large scale. 
+          The model was built using the cell-transmission approach, which has yielded promising results in accurately predicting and simulating air traffic flow in various scenarios. 
+          This involved a rigorous process of data collection, analysis, and testing to ensure the accuracy and reliability of the model. 
+          The success of this project has opened up new avenues for further research and development in the field of air traffic management.
             - Master thesis: [Building a Sector Flow Model for Air Traffic Demand Prediction](https://dspace.jaist.ac.jp/dspace/JAIST/theses)
             - Publised paper: [Q. K. Tran and K. Hiraishi, An Improved Version of Cell Transmission Model for Air Traffic Flow, Proc. 3rd Int. Conf. Transportation Infrastructure and Sustainable Development (TISDIC2019), 335-343 (2019).](https://www.researchgate.net/publication/365872173_An_improved_version_of_cell-transmission_model_for_air_traffic_flow)
       - degree: Engineer's Degree in Mechatronics Engineering
         university: The University of Danang - University of Science and Technology
         time: 2009 - 2014
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          
             - Graduation project: Design and Fabrication of a quadcopter model.
             - Bullet point
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Lecturer/Researcher
+        time: 2016 - Present
+        company: The University of Danang - University of Science and Technology
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Delivering lectures on Numerical Methods, Machine Design, and Microcontroller to Mechatronics engineering students.
+          Conducting research in related fields with a focus on the following areas of interest:
+            - Green manufacturing
+            - Machine learning in Mechatronics
+      - role: Teaching Assistant
+        time: 2014 - 2016
+        company: The University of Danang - University of Science and Technology
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          As a teaching assistant for the Mechatronics engineering major, my role involved preparing a range of engaging and challenging exercises and laboratory experiments to help students better understand key concepts and principles in the field. 
+          This included designing experiments that would allow students to apply their theoretical knowledge in a practical setting, as well as developing exercises that would encourage critical thinking, problem-solving, and collaboration.
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: Machine Learning
+          start: 2021
+          end: 2022
+          organization: Stanford University
+          credentialid: 
+          credentialurl: https://coursera.org/share/f7c1f06669017d5065802523679c7fc7
+          credentialname: Machine Learning
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
-            
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
-            fringilla vel. Ut euismod, sem sed vulputate venenatis, 
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at. 
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+            This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. 
+            Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). 
+            (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). 
+            (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). 
+            The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.
+        - name: Mathematics for Machine Learning by Imperial College London on Coursera
+          start: 2022
+          end: 2022
+          organization: Imperial College London on Coursera
+          credentialid: 
+          credentialurl: https://coursera.org/share/f9f2545e99aefffa086c3bb5dced1a79
+          credentialname: Mathematics for Machine Learning by Imperial College London on Coursera
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
+            Mathematics for Machine Learning. Learn about the prerequisite mathematics for applications in data science and machine learning.
         
 projects:
     title: Projects
@@ -238,23 +199,14 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: LaTeX
         level: 98%
 
-      - name: Angular
+      - name: Microsoft Office
         level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
