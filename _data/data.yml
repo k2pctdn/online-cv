@@ -194,15 +194,20 @@ publications:
         authors: Q. K. Tran and K. Hiraishi
         conference: 3rd Int. Conf. Transportation Infrastructure and Sustainable Development (TISDIC2019)
 
-      # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-      #   link: "#"
-      #   authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      #   conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Cyber physical system and system digitization in industry 4.0
+        link: "https://jst-ud.vn/jst-ud/article/view/7600"
+        authors: Le Tu Huy, Nguyen Ba Khai, Tran Quang Khai
+        conference: "The University of Danang - Journal of Science and Technology, vol. 19, no. 10, Oct. 2021, pp. 64-69"
 
-      # - title: A syntax directed compiler for Algol 60
-      #   link: "#"
-      #   authors: Edgar T. Irons
-      #   conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Survey, design and fabrication of humanoid robot hand model using leap motion sensor
+        link: "https://jst-ud.vn/jst-ud/article/view/3672"
+        authors: Tran Quang Khai
+        conference: "The University of Danang - Journal of Science and Technology, vol. 19, no. 1, Jan. 2021, pp. 14-18"
+
+      - title: Research on and fabrication of Vietnamese sesame seed candy packaging system
+        link: "https://jst-ud.vn/jst-ud/article/view/3066"
+        authors: Tran Quang Khai, Phan Van Son, Nguyen Thanh Duy
+        conference: "The University of Danang - Journal of Science and Technology, vol. 18, no. 5.1, May 2020, pp. 56-59"
 
 skills:
     title: Skills &amp; Proficiency
