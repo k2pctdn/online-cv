@@ -180,9 +180,7 @@ certifications:
 publications:
     title: Publications
     intro: |
-      # You can list your publications in this section. Lorem ipsum dolor sit
-      # amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      # bibendum fringilla a eu lectus.
+      All of my publications since 2014.
     papers:
       - title: An Improved Version of Cell Transmission Model for Air Traffic Flow
         link: "https://www.researchgate.net/publication/365872173_An_improved_version_of_cell-transmission_model_for_air_traffic_flow"
