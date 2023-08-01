@@ -69,6 +69,13 @@ career-profile:
 education:
     title: Education
     info:
+      - degree: Doctor of Philosophy (PhD) Student
+        university: Université de technologie de Troyes
+        time: 2022 - Present
+        details: |
+          
+            - Graduation project: Design and Fabrication of a quadcopter model.
+            - Bullet point
       - degree: MSc in Information Science
         university: Japan Advanced Institute of Science and Technology
         time: 2017 - 2019
