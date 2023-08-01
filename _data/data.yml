@@ -15,16 +15,16 @@ sidebar:
     # Sidebar links
     email: tqkhaicdt@gmail.com
     phone: 012 345 6789
-    timezone: Bangkok/Hanoi (GMT +7) Timezone
+    timezone: Bangkok/Hanoi Timezone
     citizenship: Vietnamese
     website: #do not add http://
     linkedin: tqkhai91
-    xing: alandoe
+    xing: # alandoe
     github: k2pctdn
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: # '@webjeda'
     stack-overflow: 10609069/flamingheart # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: 60601900-khai-tran # Number-Username, e.g. 123456-alandoe
@@ -66,18 +66,14 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Information Science
+        university: Japan Advanced Institute of Science and Technology
+        time: 2017 - 2019
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
+          I worked on building a reliable mathemamatical model for describing the air traffic on a large scale.
+            - Master thesis: [Building a Sector Flow Model for Air Traffic Demand Prediction](https://dspace.jaist.ac.jp/dspace/JAIST/theses)
+            - Publised paper: [Q. K. Tran and K. Hiraishi, An Improved Version of Cell Transmission Model for Air Traffic Flow, Proc. 3rd Int. Conf. Transportation Infrastructure and Sustainable Development (TISDIC2019), 335-343 (2019).](https://www.researchgate.net/publication/365872173_An_improved_version_of_cell-transmission_model_for_air_traffic_flow)
+      - degree: Engineer's Degree in Mechatronics Engineering
         university: Bristol University
         time: 2007 - 2011
         details: |
