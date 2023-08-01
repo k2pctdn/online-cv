@@ -8,50 +8,50 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Quang Khai Tran
+    tagline: PhD Student
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: tqkhaicdt@gmail.com
     phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    timezone: Bangkok/Hanoi (GMT +7) Timezone
+    citizenship: Vietnamese
+    website: #do not add http://
+    linkedin: tqkhai91
     xing: alandoe
-    github: sharu725
+    github: k2pctdn
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow: 10609069/flamingheart # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    goodreads: 60601900-khai-tran # Number-Username, e.g. 123456-alandoe
+    pdf: # http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Vietnamese
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+        # - idiom: Spanish
+        #   level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Gaming
           link:
 
-        - item: Snowboarding
+        - item: Photography
           link:
 
-        - item: Cooking
+        - item: Piano
           link:
 
 career-profile:
